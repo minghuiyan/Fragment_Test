@@ -89,6 +89,20 @@ public class MainActivity extends FragmentActivity {
 
         @Override
         public void onPageSelected(int i) {
+            switch (i){
+                case 0:
+                    rg.check(R.id.rb1);
+                    break;
+                case 1:
+                    rg.check(R.id.rb2);
+                    break;
+                case 2:
+                    rg.check(R.id.rb3);
+                    break;
+                case 3:
+                    rg.check(R.id.rb4);
+                    break;
+            }
             Log.d(TAG, "onPageSelected: 跳转结束后的页面"+i);
         }
 
