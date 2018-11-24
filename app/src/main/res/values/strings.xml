@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentsTest</string>
+    <string name="firstfragment_name">春花</string>
+    <string name="secondfragment_name">夏荷</string>
+    <string name="thirdfragment_name">秋月</string>
+    <string name="fourthfragment_name">冬阳</string>
+
+</resources>
