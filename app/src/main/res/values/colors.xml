@@ -3,10 +3,12 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="transparent">#000000</color>
+    <color name="textcolor_normal">#03Af94</color>
     <color name="color_bg_selected">#008577</color>
     <color name="color_bg_normal">#e7e7e8</color>
     <color name="color_text_selected">#ffffff</color>
     <color name="color_text_normal">#000000</color>
+    <color name="textcolor_hint">#008577</color>
+    <color name="textcolor_button">#D81B60</color>
 
 </resources>
